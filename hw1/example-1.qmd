@@ -21,7 +21,7 @@ Yes, I installed the necessary software.  Below is a screen shot showing the ver
 
 ![](assets/cmsc475-sp2024-hw1-versions.png)
 
-**Instructions***: *Your job is to modify the [markdown image link](https://quarto.org/docs/authoring/markdown-basics.html#links-images) above with an image that you create.  I generally store images in an *assets* fomder directly under the folder containing my main report folders.*
+**Instructions***: *Your job is to modify the [markdown image link](https://quarto.org/docs/authoring/markdown-basics.html#links-images) above with an image that you create.  I generally store images in an *assets* folder directly under the folder containing my main report folders.*
 
 # Setting up accounts
 
