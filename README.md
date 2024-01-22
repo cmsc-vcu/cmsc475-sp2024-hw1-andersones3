@@ -3,8 +3,6 @@
 Homework 1 offers practice with the workflow that we'll be using for all homework assignments
 in this class.
 
-This repository is a git [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) of a template created by the instructor.
-
 For this assignment:
 
 1. you'll be installing software tools listed in the [homework 1 description on Canvas](https://virginiacommonwealth.instructure.com/courses/93957/assignments/853460?module_item_id=3241421).  Then,
