@@ -9,7 +9,7 @@ format:
     embed-resources: true
 ---
 
-This assignment is...
+This assignment is getting started with user interface and experience. Making sure that all the software is installed and can edit the P5 3 code to personalize. 
 
 # Software Installation
 
