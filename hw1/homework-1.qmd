@@ -1,6 +1,6 @@
 ---
 title: Homework Assignment 1
-author: Drop your name here
+author: Erin Anderson
 date: last-modified
 format:
   html:
@@ -9,15 +9,7 @@ format:
     embed-resources: true
 ---
 
-(delete the following paragraphs)
-Welcome to homework assignment 1!  For most homework assignments in this class, you'll be submitting quarto-generated HTML reports documenting your work.
-
-For this assignment, you'll be documenting that you installed the necessary software by embedding a screen shot of your terminal window, showing the appropriate versions of the software.
-
-You'll also be embedding URLs taken from several web sites that we'll be using as part of our exploration of user interface design this semester.
-(delete the paragraphs above)
-
-(Remove the paragraphs above and add a description of this project in your own words.)
+This assignment is...
 
 # Software Installation
 
@@ -79,4 +71,4 @@ data-external="1"
 
 # Reflection
 
-(remove this text and add a reflection of your own.  What did you like about this assignment?  What was difficult?  What would you do different?)
+I liked that this assingment is a lot different setup then all the assignment I have done before. It was a little challenging trying to figure out how to use the software for uploading images but I know that will come with time. I wouldn't do anything else differently. I read the instructions and knew what was expected of me days before the assignment was due.
